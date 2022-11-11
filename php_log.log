@@ -1,0 +1,937 @@
+[10-Nov-2022 16:45:16 Europe/Berlin] Incio de APP!
+[10-Nov-2022 16:45:16 Europe/Berlin] PHP Warning:  require(C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public/inc/bootstrap.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php on line 10
+[10-Nov-2022 16:45:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public/inc/bootstrap.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php on line 10
+[10-Nov-2022 16:46:03 Europe/Berlin] Incio de APP!
+[10-Nov-2022 16:46:35 Europe/Berlin] Incio de APP!
+[10-Nov-2022 16:46:35 Europe/Berlin] PHP Warning:  require(C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public../config/bootstrap.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php on line 10
+[10-Nov-2022 16:46:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public../config/bootstrap.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php on line 10
+[10-Nov-2022 16:46:57 Europe/Berlin] Incio de APP!
+[10-Nov-2022 16:46:58 Europe/Berlin] Incio de APP!
+[10-Nov-2022 16:47:00 Europe/Berlin] Incio de APP!
+[10-Nov-2022 16:47:00 Europe/Berlin] Incio de APP!
+[10-Nov-2022 16:47:00 Europe/Berlin] Incio de APP!
+[10-Nov-2022 16:47:00 Europe/Berlin] Incio de APP!
+[10-Nov-2022 16:50:43 Europe/Berlin] Incio de APP!
+[10-Nov-2022 16:51:59 Europe/Berlin] Incio de APP!
+[10-Nov-2022 16:52:09 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:01:15 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:01:28 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:01:42 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:02:05 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:02:28 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:02:36 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:03:15 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:03:16 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:03:17 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:03:17 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:03:17 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:03:17 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:03:18 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:03:18 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:03:18 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:03:18 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:03:18 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:03:28 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:03:59 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:04:07 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:04:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "ReportesController" not found in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php:42
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(23): router->call(Array)
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(12): router->get('/reportes', Array)
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(12): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php on line 42
+[10-Nov-2022 17:04:32 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:04:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "ReportesController" not found in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php:43
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(24): router->call(Array)
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(12): router->get('/reportes', Array)
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(12): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php on line 43
+[10-Nov-2022 17:05:05 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:20:30 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:24:57 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:25:19 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:25:29 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:26:22 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:26:32 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:26:38 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:26:47 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:27:02 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:27:02 Europe/Berlin] PHP Warning:  Undefined array key "fecha_ini" in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php on line 8
+[10-Nov-2022 17:27:02 Europe/Berlin] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\helper\Generic\date.php on line 6
+[10-Nov-2022 17:27:12 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:27:12 Europe/Berlin] PHP Warning:  Undefined array key "fecha_ini" in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php on line 7
+[10-Nov-2022 17:27:12 Europe/Berlin] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\helper\Generic\date.php on line 6
+[10-Nov-2022 17:28:04 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:28:04 Europe/Berlin] PHP Warning:  Undefined array key "fecha_ini" in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php on line 7
+[10-Nov-2022 17:28:04 Europe/Berlin] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\helper\Generic\date.php on line 6
+[10-Nov-2022 17:29:14 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:30:06 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:30:08 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:30:08 Europe/Berlin] PHP Warning:  Undefined array key "fecha_ini" in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php on line 7
+[10-Nov-2022 17:30:08 Europe/Berlin] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\helper\Generic\date.php on line 6
+[10-Nov-2022 17:31:18 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:31:22 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:31:22 Europe/Berlin] PHP Warning:  Undefined array key "fecha_ini" in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php on line 7
+[10-Nov-2022 17:31:22 Europe/Berlin] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\helper\Generic\date.php on line 6
+[10-Nov-2022 17:32:20 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:32:20 Europe/Berlin] PHP Warning:  Undefined array key "fecha_ini" in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php on line 7
+[10-Nov-2022 17:32:20 Europe/Berlin] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\helper\Generic\date.php on line 6
+[10-Nov-2022 17:32:24 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:32:24 Europe/Berlin] PHP Warning:  Undefined array key "fecha_ini" in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php on line 7
+[10-Nov-2022 17:32:24 Europe/Berlin] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\helper\Generic\date.php on line 6
+[10-Nov-2022 17:32:37 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:32:37 Europe/Berlin] PHP Warning:  Undefined array key "fecha_ini" in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php on line 7
+[10-Nov-2022 17:32:37 Europe/Berlin] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\helper\Generic\date.php on line 6
+[10-Nov-2022 17:38:50 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:38:50 Europe/Berlin] PHP Warning:  Undefined array key "fecha_ini" in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php on line 8
+[10-Nov-2022 17:38:50 Europe/Berlin] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\helper\Generic\date.php on line 6
+[10-Nov-2022 17:39:02 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:39:02 Europe/Berlin] PHP Warning:  Undefined array key "fecha_ini" in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php on line 9
+[10-Nov-2022 17:39:02 Europe/Berlin] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\helper\Generic\date.php on line 6
+[10-Nov-2022 17:39:05 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:39:07 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:39:07 Europe/Berlin] PHP Warning:  Undefined array key "fecha_ini" in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php on line 9
+[10-Nov-2022 17:39:07 Europe/Berlin] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\helper\Generic\date.php on line 6
+[10-Nov-2022 17:50:05 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:50:13 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:50:28 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:50:36 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:50:36 Europe/Berlin] PHP Warning:  Undefined array key "fecha_inicio" in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php on line 8
+[10-Nov-2022 17:50:36 Europe/Berlin] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\helper\Generic\date.php on line 6
+[10-Nov-2022 17:51:10 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:51:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "AccountRepository" not found in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php:14
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(12): require('C:\\Users\\jaime\\...')
+#4 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php on line 14
+[10-Nov-2022 17:51:39 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:51:39 Europe/Berlin] PHP Warning:  require(../../libs/connection/BaseConnection.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:51:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../libs/connection/BaseConnection.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:5
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(12): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:52:43 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:52:43 Europe/Berlin] PHP Warning:  require(../../libs/connection/BaseConnection.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:52:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../libs/connection/BaseConnection.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:5
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(12): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:53:37 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:53:37 Europe/Berlin] PHP Warning:  require(../../libs/connection/BaseConnection.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:53:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../libs/connection/BaseConnection.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:5
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(12): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:55:52 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:55:52 Europe/Berlin] PHP Warning:  require(../../libs/connection/BaseConnection.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:55:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../libs/connection/BaseConnection.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:5
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(12): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:56:19 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:56:19 Europe/Berlin] PHP Warning:  require(../../libs/connection/BaseConnection.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:56:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../libs/connection/BaseConnection.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:5
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(12): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:56:36 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:56:36 Europe/Berlin] PHP Warning:  require(../../libs/connection/BaseConnection.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:56:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../libs/connection/BaseConnection.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:5
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(12): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:56:45 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:56:45 Europe/Berlin] PHP Warning:  require_once(../../config/config.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php on line 3
+[10-Nov-2022 17:56:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/config.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php:3
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(10): require_once()
+#1 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php on line 3
+[10-Nov-2022 17:56:52 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:56:52 Europe/Berlin] PHP Warning:  require_once(../../config/config.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php on line 3
+[10-Nov-2022 17:56:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/config.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php:3
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(10): require_once()
+#1 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php on line 3
+[10-Nov-2022 17:57:04 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:57:04 Europe/Berlin] PHP Warning:  require_once(../../config/config.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php on line 3
+[10-Nov-2022 17:57:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/config.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php:3
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(10): require_once()
+#1 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php on line 3
+[10-Nov-2022 17:57:30 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:57:30 Europe/Berlin] PHP Warning:  require_once(../../config/config.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php on line 3
+[10-Nov-2022 17:57:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/config.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php:3
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(10): require_once()
+#1 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php on line 3
+[10-Nov-2022 17:57:33 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:57:33 Europe/Berlin] PHP Warning:  require_once(../../config/config.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php on line 3
+[10-Nov-2022 17:57:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/config.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php:3
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(10): require_once()
+#1 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php on line 3
+[10-Nov-2022 17:57:53 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:57:53 Europe/Berlin] PHP Warning:  require_once(../../config/config.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php on line 3
+[10-Nov-2022 17:57:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../config/config.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php:3
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(10): require_once()
+#1 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php on line 3
+[10-Nov-2022 17:57:58 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:57:58 Europe/Berlin] PHP Warning:  require(../../libs/connection/BaseConnection.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:57:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../libs/connection/BaseConnection.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:5
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(18): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:58:09 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:58:09 Europe/Berlin] PHP Warning:  require(../../libs/connection/BaseConnection.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:58:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../libs/connection/BaseConnection.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:5
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(18): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:58:16 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:58:16 Europe/Berlin] PHP Warning:  require(../../libs/connection/BaseConnection.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:58:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../libs/connection/BaseConnection.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:5
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(18): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:58:51 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:58:51 Europe/Berlin] PHP Warning:  require(../../libs/connection/BaseConnection.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:58:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../libs/connection/BaseConnection.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:5
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:58:54 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:58:54 Europe/Berlin] PHP Warning:  require(../../libs/connection/BaseConnection.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:58:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../libs/connection/BaseConnection.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:5
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:59:03 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:59:03 Europe/Berlin] PHP Warning:  require(../../libs/connection/BaseConnection.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:59:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../libs/connection/BaseConnection.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:5
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:59:29 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:59:29 Europe/Berlin] PHP Warning:  require(../contracts/IAccountRepository.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 6
+[10-Nov-2022 17:59:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../contracts/IAccountRepository.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:6
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 6
+[10-Nov-2022 17:59:38 Europe/Berlin] Incio de APP!
+[10-Nov-2022 17:59:38 Europe/Berlin] PHP Warning:  require(../../libs/connection/BaseConnection.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 17:59:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../libs/connection/BaseConnection.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:5
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 18:01:25 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:01:25 Europe/Berlin] PHP Warning:  require_once(libs/connection/BaseConnection.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 18:01:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/connection/BaseConnection.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:5
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 18:01:37 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:01:37 Europe/Berlin] PHP Warning:  require(../../libs/connection/BaseConnection.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 18:01:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../libs/connection/BaseConnection.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:5
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 5
+[10-Nov-2022 18:02:19 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:02:19 Europe/Berlin] PHP Warning:  require(../../libs/connection/BaseConnection.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 7
+[10-Nov-2022 18:02:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../libs/connection/BaseConnection.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:7
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 7
+[10-Nov-2022 18:02:30 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:02:30 Europe/Berlin] PHP Warning:  require(../../libs/connection/BaseConnection.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 6
+[10-Nov-2022 18:02:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../../libs/connection/BaseConnection.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:6
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 6
+[10-Nov-2022 18:02:34 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:02:34 Europe/Berlin] PHP Warning:  require(../contracts/IAccountRepository.php): Failed to open stream: No such file or directory in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 7
+[10-Nov-2022 18:02:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '../contracts/IAccountRepository.php' (include_path='C:\xampp\php\PEAR') in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:7
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 7
+[10-Nov-2022 18:02:38 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:02:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Interface "IAccountRepository" not found in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:11
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 11
+[10-Nov-2022 18:03:10 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:03:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Interface "dao\contracts\IAccountRepository" not found in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:10
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(3): require_once()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(5): require_once('C:\\Users\\jaime\\...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#3 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 10
+[10-Nov-2022 18:03:21 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:03:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "libs\connection\Connection" not found in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:10
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(14): libs\connection\BaseConnection->__construct()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(15): AccountRepository->__construct()
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#6 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php on line 10
+[10-Nov-2022 18:04:11 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:04:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Access to undeclared static property libs\connection\Connection::$connection in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php:24
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(10): libs\connection\Connection::getConnection()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(14): libs\connection\BaseConnection->__construct()
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(15): AccountRepository->__construct()
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\Connection.php on line 24
+[10-Nov-2022 18:10:59 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:10:59 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:10:59 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:147
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(147): PDOStatement->execute()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#6 {main}
+[10-Nov-2022 18:11:12 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:11:12 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:11:12 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:147
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(147): PDOStatement->execute()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#6 {main}
+[10-Nov-2022 18:11:18 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:11:18 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:11:18 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:147
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(147): PDOStatement->execute()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#6 {main}
+[10-Nov-2022 18:11:24 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:11:24 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:11:24 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:147
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(147): PDOStatement->execute()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#6 {main}
+[10-Nov-2022 18:11:25 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:11:25 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:11:25 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:147
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(147): PDOStatement->execute()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#6 {main}
+[10-Nov-2022 18:11:31 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:11:31 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:11:31 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:147
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(147): PDOStatement->execute()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#6 {main}
+[10-Nov-2022 18:12:02 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:12:02 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:12:02 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:148
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): PDOStatement->execute()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#6 {main}
+[10-Nov-2022 18:36:33 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:36:33 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:36:33 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:147
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(147): PDOStatement->execute()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#6 {main}
+[10-Nov-2022 18:36:35 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:36:35 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:36:35 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:147
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(147): PDOStatement->execute()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#6 {main}
+[10-Nov-2022 18:36:36 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:36:36 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:36:36 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:147
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(147): PDOStatement->execute()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#6 {main}
+[10-Nov-2022 18:36:36 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:36:36 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:36:36 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:147
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(147): PDOStatement->execute()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#6 {main}
+[10-Nov-2022 18:37:36 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:37:36 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:37:36 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php:148
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): PDOStatement->execute()
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#6 {main}
+[10-Nov-2022 18:37:56 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:37:56 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:37:56 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:15
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(15): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:38:17 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:38:17 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:38:56 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:38:56 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:38:56 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:15
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(15): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:39:18 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:39:18 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:39:18 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:15
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(15): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:40:25 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:40:25 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:40:25 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:18
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(18): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:40:51 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:40:51 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:40:51 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:18
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(18): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:41:15 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:41:15 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:41:15 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:18
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(18): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:41:38 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:41:38 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:41:38 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:18
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(18): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:43:26 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:43:26 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:43:26 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:18
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(18): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:44:22 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:44:22 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:44:22 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:44:27 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:44:27 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:44:27 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:44:48 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:44:48 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:44:48 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:44:56 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:44:56 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:44:56 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:44:58 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:44:58 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:44:58 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:44:58 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:44:58 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:44:58 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:44:58 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:44:58 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:44:58 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:44:59 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:44:59 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:44:59 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:44:59 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:44:59 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:44:59 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:45:00 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:45:00 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:45:00 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:45:05 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:45:05 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:45:05 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:45:17 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:45:17 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:45:17 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:45:17 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:45:17 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:45:17 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:45:18 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:45:18 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:45:18 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:45:18 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:45:18 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:45:18 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:45:20 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:45:20 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:45:20 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:45:20 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:45:20 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:45:20 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:45:21 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:45:21 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:45:21 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:45:29 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:45:29 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:45:29 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(148): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:45:39 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:45:39 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:45:39 Europe/Berlin] AccountRepository::getByDate -> PDOExepcionPDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'actas.cuentas' doesn't exist in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:19
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(19): PDO->query('SELECT * FROM c...')
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(147): libs\connection\BaseConnection->query('SELECT * FROM c...')
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+[10-Nov-2022 18:45:39 Europe/Berlin] PHP Warning:  Undefined variable $result in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 155
+[10-Nov-2022 18:46:07 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:46:07 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "try" in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php on line 141
+[10-Nov-2022 18:46:28 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:46:28 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:46:55 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:46:55 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:47:32 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:47:32 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:47:47 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:47:47 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:48:02 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:48:02 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:48:11 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:48:11 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:48:26 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:48:26 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:49:21 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:49:21 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:49:28 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:49:28 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:49:39 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:49:39 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:49:46 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:49:46 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:49:52 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:49:52 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:50:03 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:50:03 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:50:14 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:50:14 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:50:27 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:50:27 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:51:10 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:51:20 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:51:24 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:51:31 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:51:47 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:51:55 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:52:01 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:52:01 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:52:30 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:52:46 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:53:00 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:53:13 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:53:40 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:53:40 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:53:52 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:53:52 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:54:23 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:54:23 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:54:28 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:54:39 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:54:50 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:54:50 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:54:54 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:54:54 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:55:19 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:55:19 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:55:26 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:55:26 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:56:31 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:56:31 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:56:31 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: PDO::prepare(): Argument #1 ($query) must be of type string, PDOStatement given in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php:24
+Stack trace:
+#0 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php(24): PDO->prepare(Object(PDOStatement))
+#1 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\dao\repositories\AccountRepository.php(145): libs\connection\BaseConnection->prepare(Object(PDOStatement))
+#2 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\controllers\ReportesController.php(16): AccountRepository->getByDate('2022/11/15', '2023/11/23')
+#3 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(45): ReportesController->getTimestamps()
+#4 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\config\router.php(36): router->call(Array)
+#5 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\routes\api.php(13): router->post('/reportes', Array)
+#6 C:\Users\jaime\Downloads\Taller-PHP-MVC-2\public\index.php(19): require('C:\\Users\\jaime\\...')
+#7 {main}
+  thrown in C:\Users\jaime\Downloads\Taller-PHP-MVC-2\libs\connection\BaseConnection.php on line 24
+[10-Nov-2022 18:57:13 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:57:13 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:57:30 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:57:30 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:57:54 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:57:54 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:58:17 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:58:17 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 18:58:36 Europe/Berlin] Incio de APP!
+[10-Nov-2022 18:58:36 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 19:02:19 Europe/Berlin] Incio de APP!
+[10-Nov-2022 19:02:19 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 19:02:26 Europe/Berlin] Incio de APP!
+[10-Nov-2022 19:02:26 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 19:02:30 Europe/Berlin] Incio de APP!
+[10-Nov-2022 19:02:30 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 19:02:47 Europe/Berlin] Incio de APP!
+[10-Nov-2022 19:02:47 Europe/Berlin] Conexión a BD exitosa
+[10-Nov-2022 19:02:51 Europe/Berlin] Incio de APP!
+[10-Nov-2022 19:02:57 Europe/Berlin] Incio de APP!
+[10-Nov-2022 19:03:05 Europe/Berlin] Incio de APP!
+[10-Nov-2022 19:03:11 Europe/Berlin] Incio de APP!
+[10-Nov-2022 19:03:11 Europe/Berlin] Conexión a BD exitosa

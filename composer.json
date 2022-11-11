@@ -1,0 +1,8 @@
+{
+
+    "require": {
+        "php-di/php-di": "^6.4",
+      "ext-json": "*",
+      "ext-pdo": "*"
+    }
+}
